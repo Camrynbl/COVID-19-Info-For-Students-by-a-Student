@@ -5,7 +5,7 @@ categories:
 - Welcome
 ---
 
-## What is this webpage?
+## What is this website?
 
 COVID-19 Information for Students by a Student was created to serves the needs of Texas A&M University's College Station student body. This page does not provide medical instruction or advice, but it here to help students find the information they need most. 
 
