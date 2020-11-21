@@ -2,7 +2,7 @@
 layout: post
 title: Traditions
 ---
-##Changes to Aggie Traditions thus far and in the future
+## Changes to Aggie Traditions thus far and in the future
 ### Ring Day
 ### Elephant Walk
 * moved to next semester
