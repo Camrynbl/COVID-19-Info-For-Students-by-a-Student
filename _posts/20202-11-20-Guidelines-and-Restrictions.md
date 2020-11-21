@@ -2,8 +2,8 @@
 layout: post
 title: Guidleines & Restrictions
 ---
-# Texas A&M University-College Station Guidelines & Restrictions
-## For campus or at off-campus activities sponsored by TAMU or TAMU recognized student organizations
+## Texas A&M University-College Station Guidelines & Restrictions
+### For campus or at off-campus activities sponsored by TAMU or TAMU recognized student organizations
   * [Face coverings](https://www.tamu.edu/coronavirus/messages/face-coverings-on-campus.html)
     * Required in indoor public areas and outdoor spaces where 6 feet of physical distancing is difficult ot maintain.
     * When to wear it
