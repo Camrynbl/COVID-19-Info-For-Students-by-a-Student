@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: COVID-19 Cases
 ---
 
