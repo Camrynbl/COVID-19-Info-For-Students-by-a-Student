@@ -1,8 +1,6 @@
 ---
 layout: post
 title: COVID-19 Cases
-categories:
-- COVID-19 Cases
 ---
 
 ## Data resources for up-to-date case information
