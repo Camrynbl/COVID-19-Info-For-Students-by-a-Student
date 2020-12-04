@@ -13,7 +13,7 @@ title: COVID-19 Cases
   * results of [A&M's random testing program](https://www.tamu.edu/coronavirus/messages/important-student-covid-19-testing-program.html) 
   * Brazos County, Texas Coronavirus confirmed cases and deaths
 
-*All Texas A&M data is a reflection of tests performed through [Student Health Services](https://shs.tamu.edu/) and at Curative Inc. or from self reporting through the [Texas A&M Self-Reporting Portal](https://redcap.tamhsc.edu/surveys/?s=N38DRD4EMK&_ga=2.227788765.1381087170.1605901065-312577730.1564419345).*
+> *All Texas A&M data is a reflection of tests performed through [Student Health Services](https://shs.tamu.edu/) and at Curative Inc. or from self reporting through the [Texas A&M Self-Reporting Portal](https://redcap.tamhsc.edu/surveys/?s=N38DRD4EMK&_ga=2.227788765.1381087170.1605901065-312577730.1564419345).*
 ### Brazos County
   * [Brazos County COVID-19 Cases - By The Numbers](https://maps.bryantx.gov/portal/apps/opsdashboard/index.html#/aab56645d92d451e904f26db4d6f2d46) tracks the following:
     * Cumulative COIVD-19 cases by day which includes total and active cases. Shown through graph. 
@@ -21,7 +21,7 @@ title: COVID-19 Cases
     * Cases data broken down by: gender, race ethnicity, transmission source, age group
     * Cases by zip code
 
-*All Brazos County data is provided by the [Brazos County Health Department](http://brazoscountytx.gov/571/6434/COVID-19-Information).*
+> *All Brazos County data is provided by the [Brazos County Health Department](http://brazoscountytx.gov/571/6434/COVID-19-Information).*
 ### Texas
   * [Texas Department of State Health Services](https://dshs.texas.gov/coronavirus/)' [COVID-19 Case Data dashboard](https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83) tracks the following:
     * number of molecular tests
