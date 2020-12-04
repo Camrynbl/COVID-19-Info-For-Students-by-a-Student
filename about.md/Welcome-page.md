@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome!
+{{ site.them }}
 ---
 
 ## What is this website?
