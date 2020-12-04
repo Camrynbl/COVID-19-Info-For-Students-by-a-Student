@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Guidleines & Restrictions
 ---
 ## Texas A&M University-College Station Guidelines & Restrictions
