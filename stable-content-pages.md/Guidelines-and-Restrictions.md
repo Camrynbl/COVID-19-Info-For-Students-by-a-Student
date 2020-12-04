@@ -2,7 +2,7 @@
 layout: post
 title: Guidleines & Restrictions
 categories:
-- Gatherings
+- Masks
 ---
 ## Texas A&M University-College Station Guidelines & Restrictions
 ### For campus or at off-campus activities sponsored by TAMU or TAMU recognized student organizations
