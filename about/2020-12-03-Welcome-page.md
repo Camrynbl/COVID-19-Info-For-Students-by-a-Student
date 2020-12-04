@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Welcome!
-categories:
-- Welcome
 ---
 
 ## What is this website?
