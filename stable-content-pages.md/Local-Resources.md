@@ -12,8 +12,8 @@ title: Local Resources
 
 ## Local news sources
 ### Texas A&M
-* [Texas A&M Today](https://today.tamu.edu/)
-* [The Battalion](http://www.thebatt.com/)
+* [Texas A&M Today](https://today.tamu.edu/): Texas A&M's news hub
+* [The Battalion](http://www.thebatt.com/): Texas A&M's student newspaper
 ### Bryan-College Station
-* [The Eagle](https://theeagle.com/)
-* [KBTX News 3](https://www.kbtx.com/)
+* [The Eagle](https://theeagle.com/): Bryan-College Station newspaper
+* [KBTX News 3](https://www.kbtx.com/): Bryan-College Station newstation
