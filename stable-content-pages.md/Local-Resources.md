@@ -18,4 +18,4 @@ title: Local Resources
 * [The Eagle](https://theeagle.com/): Bryan-College Station newspaper
 * [KBTX News 3](https://www.kbtx.com/): Bryan-College Station newstation
 
-> *DISCLAIMER: This webpage is not created or maintained by any Texas A&M System departments or organizations. This website is created to provide resource information, not medical instruction or advise. Refer to list of national, state, and local resources for all COVID-19 information.*
+> *DISCLAIMER: This webpage is not created or maintained by any Texas A&M System departments or organizations. This website is created to provide resource information, not medical instruction or advice. Refer to list of national, state, and local resources for all COVID-19 information.*
