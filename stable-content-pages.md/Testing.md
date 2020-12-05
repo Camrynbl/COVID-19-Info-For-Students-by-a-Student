@@ -31,3 +31,5 @@ title: Testing
 * [CVS](https://www.cvs.com/store-locator/cvs-pharmacy-address/2411+Texas+Avenue+South-College+Station-TX-77840/storeid=6740?WT.mc_id=LS_GOOGLE_FS_6740)
   * You can make an appointment [here](https://www.cvs.com/minuteclinic/covid-19-testing?WT.ac=cvs-storelocator-searchpilot-header-covid-6740). Referral not required. 
   * Drive-through testing available testing at this location. 
+  
+> *DISCLAIMER: This webpage is not created or maintained by any Texas A&M System departments or organizations. This website is created to provide resource information, not medical instruction or advice. Refer to list of national, state, and local resources for all COVID-19 information.*
