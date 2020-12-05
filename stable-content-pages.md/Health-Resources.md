@@ -17,4 +17,4 @@ title: Health Resources
 * [Texas A&M's COVID-19 Reporting Portal](https://redcap.tamhsc.edu/surveys/?s=N38DRD4EMK&_ga=2.164692863.1381087170.1605901065-312577730.1564419345)
   * Allows you to self-report or report another individual.
 
-> *DISCLAIMER: This webpage is not created or maintained by any Texas A&M System departments or organizations. This website is created to provide resource information, not medical instruction or advise. Refer to list of national, state, and local resources for all COVID-19 information.*
+> *DISCLAIMER: This webpage is not created or maintained by any Texas A&M System departments or organizations. This website is created to provide resource information, not medical instruction or advice. Refer to list of national, state, and local resources for all COVID-19 information.*
