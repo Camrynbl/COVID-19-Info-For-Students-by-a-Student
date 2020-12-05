@@ -26,4 +26,4 @@ categories:
 
 
 
-> *Disclaimer: > This webpage is not created or maintained by any Texas A&M System departments or organizations. This website is created to provide resource information, not medical instruction or advice. Refer to list of national, state, and local resources for all COVID-19 information. This website is not affiliated with any stores or products. None of the links provided are affiliate links, and this website makes no money from any of the mentioned stores or products.*
+> *Disclaimer: This webpage is not created or maintained by any Texas A&M System departments or organizations. This website is created to provide resource information, not medical instruction or advice. Refer to list of national, state, and local resources for all COVID-19 information. This website is not affiliated with any stores or products. None of the links provided are affiliate links, and this website makes no money from any of the mentioned stores or products.*
