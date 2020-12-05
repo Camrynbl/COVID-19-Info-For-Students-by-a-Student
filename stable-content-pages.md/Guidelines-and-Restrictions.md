@@ -23,3 +23,5 @@ categories:
 Texas A&M's most recent update for on-campus gathering size limitations can be found [here](https://www.tamu.edu/coronavirus/messages/updated-on-campus-gathering-size-limitations.html).
     
 For more information and helpful guidelines, visit Center for Disease Control's [website](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/index.html). 
+
+> *DISCLAIMER: This webpage is not created or maintained by any Texas A&M System departments or organizations. This website is created to provide resource information, not medical instruction or advise. Refer to list of national, state, and local resources for all COVID-19 information.*
