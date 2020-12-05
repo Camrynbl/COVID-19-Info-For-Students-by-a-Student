@@ -22,7 +22,7 @@ title: Testing
   * Available to anyone. 
   * Further reading: [COVID-19 Testing Kiosks Debut This Week At Texas A&M](https://today.tamu.edu/2020/10/12/covid-19-testing-kiosks-debut-this-week-at-texas-am/)
   
-  https://youtu.be/sayj6ULZOPk
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sayj6ULZOPk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 ## Off-Campus
 * [CapRock Urgent Care at Century Square](https://caprockhealthsystem.com/caprock-urgent-care-century-square/)
