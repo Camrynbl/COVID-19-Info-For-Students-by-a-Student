@@ -34,3 +34,6 @@ categories:
     * Total tests reported shown in graph
     * Daily new tests shown in graph  
 * Dashboards are updated daily by 4:00 p.m
+
+> *DISCLAIMER: This webpage is not created or maintained by any Texas A&M System departments or organizations. This website is created to provide resource information, not medical instruction or advise. Refer to list of national, state, and local resources for all COVID-19 information.*
+
