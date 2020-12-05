@@ -15,3 +15,5 @@ title: Schedule and Course Changes
     * One-day break for Texas Independence Day on Tuesday, March 2, 2021
     
 For more campus updates, see A&M's [Campus Messages](https://www.tamu.edu/coronavirus/messages/index.html).
+
+> *DISCLAIMER: This webpage is not created or maintained by any Texas A&M System departments or organizations. This website is created to provide resource information, not medical instruction or advice. Refer to list of national, state, and local resources for all COVID-19 information.*
