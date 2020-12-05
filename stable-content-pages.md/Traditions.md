@@ -21,4 +21,6 @@ title: Traditions
 ### Replant
 * Aggie Replant is unable to confirm if the event will proceed in 2020. Both applications for volunteers and site owners have been closed until further notice. 
 
-For more information on Aggie Traditions, visit this [website](https://www.tamu.edu/traditions/). 
+For more information on Aggie Traditions, visit this [website](https://www.tamu.edu/traditions/).
+
+> *DISCLAIMER: This webpage is not created or maintained by any Texas A&M System departments or organizations. This website is created to provide resource information, not medical instruction or advice. Refer to list of national, state, and local resources for all COVID-19 information.*
