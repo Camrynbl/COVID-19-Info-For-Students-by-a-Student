@@ -40,3 +40,6 @@ With season delays and schedule changes, Texas A&M athletics has gone through a 
    * The Aggies began their season on Sept. 18th, 2020. Games are [scheduled](https://12thman.com/sports/womens-tennis/schedule) through April 21st, 2021.
 ## [Volleyball](https://12thman.com/index.aspx?path=wvball)
  * Completed 2020 season. Included 8 conference games. 
+
+
+> *DISCLAIMER: This webpage is not created or maintained by any Texas A&M System departments or organizations. This website is created to provide resource information, not medical instruction or advice. Refer to list of national, state, and local resources for all COVID-19 information.*
