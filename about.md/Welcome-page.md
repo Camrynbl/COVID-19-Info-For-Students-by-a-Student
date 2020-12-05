@@ -14,4 +14,6 @@ Since the first introduction of COVID-19 into the world, waves of procedures, wa
 
 Thanks and Gig'em!
 
+<iframe src="https://giphy.com/embed/5jWfG61gJtSSOrueSD" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tamu-happy-cute-5jWfG61gJtSSOrueSD">via GIPHY</a></p>
+
 > *DISCLAIMER: This webpage is not created or maintained by any Texas A&M System departments or organizations. This website is created to provide resource information, not medical instruction or advise. Refer to list of national, state, and local resources for all COVID-19 information.*
