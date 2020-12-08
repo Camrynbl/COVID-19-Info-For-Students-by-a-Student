@@ -2,6 +2,7 @@
 layout: default
 title: Schedule and Course Changes
 ---
+## What spring 2021 will look like
 * Texas A&M's most recent [update](https://provost.tamu.edu/Campus-Messages/Planning-for-Spring-%E2%80%9921?_ga=2.159403901.1381087170.1605901065-312577730.1564419345) for Spring 2021
   * Important Takeaways
     * 64% of course sections and 51% of class seats will have some type of face-to-face instruction.
