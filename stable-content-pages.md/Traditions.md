@@ -5,7 +5,7 @@ title: Traditions
 ## Changes to Aggie Traditions thus far and in the future
 ### Ring Day
 * [Sept. 21-25, 2020](https://t.e2ma.net/message/j9lpef/77k2yxf)
-  * Only ring recipient was allowed in the Haynes Ring Plaza and Clayton W. Williams, Jr. Alumni Center during their alloted time period. Face masks were required. 
+  * Only ring recipient was allowed in the Haynes Ring Plaza and Clayton W. Williams, Jr. Alumni Center during their alloted time period. Face masks were required.
 * [Nov. 17, 19, and 20, 2020](https://t.e2ma.net/message/v67dif/77k2yxf)
   * Ring recipient was allowed to bring two guests into the Haynes Ring Plaza and Clayton W. Williams, Jr. Alumni Center during their alloted time period. Face masks were required.
 ### Elephant Walk
