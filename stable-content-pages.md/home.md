@@ -9,3 +9,5 @@ Check out the Welcome Page to find out the goals of COVID-19 TAMU Info for Stude
 Explore the categories for concise information related to COVID-19 or look through the keywords section for specific info.
 
 Thanks and Gig'em
+
+![Kyle Field in Decemeber](IMG_2941.jgp)
